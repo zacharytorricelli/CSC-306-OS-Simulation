@@ -1,4 +1,5 @@
 # CSC-306-OS-Simulation
+
 CSC 306 Operating Systems
 This repository uses different data structures to perform a simulation of an operating system.
 
