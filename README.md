@@ -1,6 +1,7 @@
 # CSC-306-OS-Simulation
 
 CSC 306 Operating Systems
+
 This repository uses different data structures to perform a simulation of an operating system.
 
 Using a random number generator, you will need to create (4) data sets of 100 random integers 
