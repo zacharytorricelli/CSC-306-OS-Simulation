@@ -15,5 +15,6 @@ There will be two “runs” your main program. Single register and four registe
 Use looping to load/unload the queues from the data sets and to your output file. 
 Each loop is a clock cycle. Count your clock cycle for each of the two functions. Output these counts to your file.  
 Output your input and output data in 10 by 10 matrix to your file.
+  
    -> Run one uses a single register to input to queues and a single register output data.
   	-> Run two uses 4 registers to input to queues and 4 registers to output data to files
