@@ -17,4 +17,5 @@ Each loop is a clock cycle. Count your clock cycle for each of the two functions
 Output your input and output data in 10 by 10 matrix to your file.
   
    -> Run one uses a single register to input to queues and a single register output data.
-  	-> Run two uses 4 registers to input to queues and 4 registers to output data to files
+  	
+   -> Run two uses 4 registers to input to queues and 4 registers to output data to files
